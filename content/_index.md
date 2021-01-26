@@ -1,10 +1,10 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Clara Stafford"
+subtitle: "Data lover"
+description: "I am a graduate trainee at Western University in Quantitative Psychology. I also stream my programming journey on Twitch! Let's talk R."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
+  - img/twitch-logo.png
 image_left: true
 text_align_left: false
 show_action_link: true
