@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Clara Stafford"
 role: "PhD Student @ Western University"
-avatar: avatar.jpg
+avatar: avatar-small.jpg
 avatar_shape: square # circle, square, rounded
 show_social: true
 show_audio_link: true
