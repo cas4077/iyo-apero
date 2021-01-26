@@ -3,7 +3,7 @@
 author: "Clara Stafford"
 role: "PhD Student @ Western University"
 avatar: avatar.jpg
-avatar_shape: circle # circle, square, rounded
+avatar_shape: rounded # circle, square, rounded
 show_social: true
 show_audio_link: true
 audio_link: 
